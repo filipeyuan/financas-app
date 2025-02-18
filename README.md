@@ -26,7 +26,6 @@ Este projeto é um **CRUD de Transações Financeiras**, onde é possível cadas
 - **Separação de Páginas** (Cadastrar e Listagem)
 - **Botões do Menu** Funcionais
 - **Cores e Layout Aprimorados**
-- **Correção do CORS** no backend
 
 ## Instalação
 
