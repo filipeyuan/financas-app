@@ -22,10 +22,6 @@ Este projeto é um **CRUD de Transações Financeiras**, onde é possível cadas
 - **Editar Transações**
 - **Excluir Transações**
 - **Filtrar por Tipo** (Receita/Despesa)
-- **Exibir Nome das Categorias** ao invés do ID
-- **Separação de Páginas** (Cadastrar e Listagem)
-- **Botões do Menu** Funcionais
-- **Cores e Layout Aprimorados**
 
 ## Instalação
 
